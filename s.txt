@@ -3,3 +3,4 @@ global information tracker
 biet
 davangere
 engineeering college
+git is useful for collaborating with other professionals 
